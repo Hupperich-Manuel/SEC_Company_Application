@@ -1,4 +1,3 @@
-[🔗 Manuel's Sign up page](https://raw.githack.com/Hupperich-Manuel/SEC_Company_Application/edit/main/README.md)
 <h1 align="center">
     <font size="30">
         <u>SEC Company Application</u>
