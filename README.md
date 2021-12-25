@@ -1,6 +1,6 @@
 # SEC_Company_Application
 
-https://media.giphy.com/media/Mc1yxvp8fIGuYXHJI0/giphy-downsized-large.gif
+![Alt Text](https://media.giphy.com/media/Mc1yxvp8fIGuYXHJI0/giphy-downsized-large.gif)
 
 ## The story behind the _MEGA PROJECT_
 
