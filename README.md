@@ -1,8 +1,28 @@
-# SEC_Company_Application
+<h1 align="center">
+    <font size="30">
+        <u>SEC Company Application</u>
+    </font>
+</h1>
 
-![Alt Text](https://media.giphy.com/media/Mc1yxvp8fIGuYXHJI0/giphy-downsized-large.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/CtYFOdVbvTfgZunPEA/giphy.gif" alt="animated" />
+</p>
 
-## The story behind the _MEGA PROJECT_
+
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+[![GitHub version](https://badge.fury.io/gh/ManuelHupperich%2FStrapDown.js.svg)](https://github.com/ManuelHupperich/StrapDown.js)
+[![PyPI download month](https://img.shields.io/pypi/dm/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+![Profile views](https://gpvc.arturio.dev/ManuelHupperich)
+
+
+<h1 align="center">
+    <font size="22">
+        <u>The story behind the <i>MEGA PROJECT</i></u>
+    </font>
+</h1>
 
 Have you ever wondered why the corporate investors are always one step ahead the individual investors?. The answer is truly not easy, however information is one of the main points, and it is also one of the reasons why i decided to start this project.
 Sarting to manage my own investements, and being pretty data oriented led me to think critically abou tthe data I was using for my analysis. thats whhy I wanted to get sure that the input I used for decision making was reliable.
