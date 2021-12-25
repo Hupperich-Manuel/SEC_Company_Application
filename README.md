@@ -5,3 +5,4 @@ Application that goes from the reliable data extraction of the SEC to the implem
 ```python
 company = cf.Company()
 ```
+![image](https://user-images.githubusercontent.com/67901472/147389542-86cf1c66-8bd7-4977-b827-d89f55778269.png)
