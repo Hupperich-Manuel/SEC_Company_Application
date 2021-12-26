@@ -19,17 +19,49 @@
 ![Profile views](https://gpvc.arturio.dev/ManuelHupperich)
 
 
+
+# Table of Contents
+1. [Abstract](#Abstract)
+2. [Introduction](#introduction)
+3. [How to profit from this work](#For whom is it aimed)
+4. [How to use it](#Explanation)
+
+
+## Abstract
+
+
+
 <h1 align="center">
     <font size="22">
         <u>The story behind the <i>MEGA PROJECT</i></u>
     </font>
 </h1>
 
+## Introduction
+
 Have you ever wondered why the corporate investors are always one step ahead the individual investors?. The answer is truly not easy, however information is one of the main points, and it is also one of the reasons why i decided to start this project.
 Sarting to manage my own investements, and being pretty data oriented led me to think critically abou tthe data I was using for my analysis. thats whhy I wanted to get sure that the input I used for decision making was reliable.
 Moreover, why not starting to use machine learning, or even deep learning models in order to get the most insights of the raw data. That is where i started to research about a source that would give me in a structured way the data I needed for every single company that is publicy traded out there. 
 Nonetheless, I found myself in monthly subscriptions and creepy data bases. Therefore, i decided to code my own source.
 
+
+
+<h1 align="center">
+    <font size="22">
+        <u>How to profit from this work</u>
+    </font>
+</h1>
+
+## For whom is it aimed
+
+
+<h1 align="center">
+    <font size="22">
+        <u>How to use it</u>
+    </font>
+</h1>
+
+## Explanation
 
 Application that goes from the reliable data extraction of the SEC to the implementation of a machine learning algorithm to predict the performance from the selcted period
 
