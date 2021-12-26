@@ -23,12 +23,12 @@
 # Table of Contents
 1. [Abstract](#Abstract)
 2. [The story behind the _MEGA PROJECT_](#introduction)
-3. [How to profit from this work](#Scope)
-4. [How to use it](#Explanation)
+3. [How to profit from this work?](#Scope)
+4. [How to use it?](#Explanation)
 
 
 ## Abstract
-
+This work entails the required code to extract the SEC 10Q filling from every publicy traded company in the amercian stock market. However, being this a very complex task which requires constant updates, either because companies change they filling format, or because new ones enter into the market, the results obtained with this code should always be evaluated by a professional who has the necessary domain knwoledge to evaluate the accuracy of the data. Moreover, the code is aimed to serve as open source, in order to create a community that enables the individual investors to use to use financial info for their purpose without having to pay for relational information. This code is my first personal big project, therefore a lot of optimization updates could be done, aditionally, not all the companies can be extracted with it, thats why I encourage everyone out there to give me feedback and if so contribute to this project. In this whole analysis we are going to use Apple, as the guiding example, since it is the one which works with data from 2016 onwards, and which is _relatively well organized while concatening the data_ which is not the case for other entities (thats is why the domain knwoledge).
 
 
 <h1 align="center">
@@ -48,16 +48,28 @@ Nonetheless, I found myself in monthly subscriptions and creepy data bases. Ther
 
 <h1 align="center">
     <font size="22">
-        <u>How to profit from this work</u>
+        <u>How to profit from this work?</u>
     </font>
 </h1>
 
 ## Scope
 
+The scope of this project is to get the necesary information to perform several time series analysis on the financial information gathered through the information scrap. These can go from the stock price predictions with machine or deep leraning models till basic descriptive statistics for the more fundamental passionate investor.
+
+In this section we are going to see some applications where this data could be used for.
+
+### Descriptive Statistics
+
+<p align="center">
+<kbd>
+    <img src= "https://user-images.githubusercontent.com/67901472/147411342-f66ccda3-ae77-4cd9-8d6e-321ba8c4f30b.png" width ="450" height="390">
+    <img src= "https://user-images.githubusercontent.com/67901472/147411349-8b33ad37-f6e6-4f3e-b9f0-69dcb0ba8a57.png", width="450" height="390">
+</kbd>
+</p>
 
 <h1 align="center">
     <font size="22">
-        <u>How to use it</u>
+        <u>How to use it?</u>
     </font>
 </h1>
 
@@ -88,17 +100,25 @@ We will use in this example Apple Inc, therefore the identifyer (CIK) is: 000032
 ```python
 company.Get_Statements()
 ```
-![image](https://user-images.githubusercontent.com/67901472/147389658-499c35a9-815b-4828-838b-d35e4db0e5f4.png)
-![image](https://user-images.githubusercontent.com/67901472/147389664-1196e7c2-9af6-4a95-90d4-ff120b05bdb7.png)
+<kbd>
+    <img src= "https://user-images.githubusercontent.com/67901472/147389658-499c35a9-815b-4828-838b-d35e4db0e5f4.png" width ="1000" height="120">
+    <img src= "https://user-images.githubusercontent.com/67901472/147389664-1196e7c2-9af6-4a95-90d4-ff120b05bdb7.png", width="1000" height="70">
+</kbd>
+
 
  If not, you will get downloaded the latest release of Apple Incs Income Statement. On the contrary if you want a specific date, write yes, and you will get all the 10Q sec filling dates since it first release.
  
- ![image](https://user-images.githubusercontent.com/67901472/147389696-b5bd66fd-e6c6-4c41-b856-99950e78eb5f.png)
+ <kbd>
+    <img src= "https://user-images.githubusercontent.com/67901472/147389696-b5bd66fd-e6c6-4c41-b856-99950e78eb5f.png">
+</kbd>
+
 
 During the runtime the programm will save every link of the three main financial statements (income statement, balance sheet and cash flow, of course for the sake of efficiency this could be done better).
 Finally it will return the dates which are contained in the excel file and also the path where the cleaned statement is going to be located.
 Notice that if the file is already mnerged in order to do the ratios analysis, the code will return _Quarter is already merged_
  
- ![image](https://user-images.githubusercontent.com/67901472/147389730-1a20042a-1950-41de-ab34-8f039372e1c2.png)
-
- 
+<p align="center">
+<kbd>
+  <img src="https://user-images.githubusercontent.com/67901472/147389730-1a20042a-1950-41de-ab34-8f039372e1c2.png" width="500" height="250">
+</kbd>
+</p>
