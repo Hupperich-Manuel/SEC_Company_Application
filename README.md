@@ -22,8 +22,8 @@
 
 # Table of Contents
 1. [Abstract](#Abstract)
-2. [Introduction](#introduction)
-3. [How to profit from this work](#For whom is it aimed)
+2. [The story behind the _MEGA PROJECT_](#introduction)
+3. [How to profit from this work](#Scope)
 4. [How to use it](#Explanation)
 
 
@@ -52,7 +52,7 @@ Nonetheless, I found myself in monthly subscriptions and creepy data bases. Ther
     </font>
 </h1>
 
-## For whom is it aimed
+## Scope
 
 
 <h1 align="center">
