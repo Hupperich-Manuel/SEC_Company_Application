@@ -22,7 +22,7 @@
 
 # Table of Contents
 1. [Abstract](#Abstract)
-2. [The story behind the _MEGA PROJECT_](#introduction)
+2. [The story behind the Project](#introduction)
 3. [How to profit from this work?](#Scope)
 4. [How to use it?](#Explanation)
 
@@ -33,7 +33,7 @@ This work entails the required code to extract the SEC 10Q filling from every pu
 
 <h1 align="center">
     <font size="22">
-        <u>The story behind the <i>MEGA PROJECT</i></u>
+        <u>The story behind the Project</u>
     </font>
 </h1>
 
