@@ -16,8 +16,7 @@
 [![Github all releases](https://img.shields.io/github/downloads/Hupperich-Manuel/SEC_Company_Application/total.svg)](https://GitHub.com/Hupperich-Manuel/SEC_Company_Application/releases/)
 [![Github all releases](https://img.shields.io/github/downloads/Hupperich-Manuel/SEC_Company_Application/total.svg)](https://GitHub.com/Hupperich-Manuel/SEC_Company_Application/releases/)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
-![Profile views](https://gpvc.arturio.dev/ManuelHupperich)
-
+![counter](https://enlg7u0qi4yx26n.m.pipedream.net)                                                                                                                
 
 
 # Table of Contents
