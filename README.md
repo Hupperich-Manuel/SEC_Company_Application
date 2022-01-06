@@ -61,8 +61,8 @@ In this section we are going to see some applications where this data could be u
 
 <p align="center">
 <kbd>
-    <img src= "https://user-images.githubusercontent.com/67901472/148179300-d5bd654e-4bc2-4c27-82d7-e9c883952df3.png" width ="450" height="390">
-    <img src= "https://user-images.githubusercontent.com/67901472/148179349-617ca63b-dea1-4ad7-94cf-1101b2a4960c.png", width="450" height="390">
+    <img src= "https://user-images.githubusercontent.com/67901472/148179300-d5bd654e-4bc2-4c27-82d7-e9c883952df3.png" width ="430" height="390">
+    <img src= "https://user-images.githubusercontent.com/67901472/148179349-617ca63b-dea1-4ad7-94cf-1101b2a4960c.png", width="430" height="390">
 </kbd>
 </p>
 
