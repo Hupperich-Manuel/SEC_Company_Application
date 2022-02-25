@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/CtYFOdVbvTfgZunPEA/giphy.gif" alt="animated" width=7600", height="400"/>
+  <img src="https://user-images.githubusercontent.com/67901472/155784256-4323f4c5-b13b-449d-b048-79bc59cc519b.png" width=7600", height="400"/>
 </p>
 
 
